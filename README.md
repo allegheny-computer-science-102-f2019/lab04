@@ -1,8 +1,8 @@
 
-# cs102-F2019-lab04-starter
+# cs102-F2019-lab05-starter
 # Starter Files
 
-Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for Lab 4 in Computer Science 102.
+Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the starter files for the Lab.
 
 ## Introduction
 
